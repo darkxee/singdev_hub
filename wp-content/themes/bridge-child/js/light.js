@@ -95,4 +95,8 @@
 	function light(){
 
 	}
+
+	//light ccinneesrerte
+
+
 })(jQuery);
